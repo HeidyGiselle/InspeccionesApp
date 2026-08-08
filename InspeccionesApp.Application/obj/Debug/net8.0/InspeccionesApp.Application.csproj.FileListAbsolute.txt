@@ -1,0 +1,15 @@
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Application\bin\Debug\net8.0\InspeccionesApp.Application.deps.json
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Application\bin\Debug\net8.0\InspeccionesApp.Application.dll
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Application\bin\Debug\net8.0\InspeccionesApp.Application.pdb
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Application\bin\Debug\net8.0\InspeccionesApp.Domain.dll
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Application\bin\Debug\net8.0\InspeccionesApp.Domain.pdb
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Application\obj\Debug\net8.0\InspeccionesApp.Application.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Application\obj\Debug\net8.0\InspeccionesApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Application\obj\Debug\net8.0\InspeccionesApp.Application.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Application\obj\Debug\net8.0\InspeccionesApp.Application.AssemblyInfo.cs
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Application\obj\Debug\net8.0\InspeccionesApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Application\obj\Debug\net8.0\Inspecci.036F2122.Up2Date
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Application\obj\Debug\net8.0\InspeccionesApp.Application.dll
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Application\obj\Debug\net8.0\refint\InspeccionesApp.Application.dll
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Application\obj\Debug\net8.0\InspeccionesApp.Application.pdb
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Application\obj\Debug\net8.0\ref\InspeccionesApp.Application.dll

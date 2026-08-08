@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "p4sOm3qwZGB5gSOD59PZ/5GBmQmOS/IjvamJ36M0U2g=",
+  "Source": "InspeccionesApp.API",
+  "BasePath": "_content/InspeccionesApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

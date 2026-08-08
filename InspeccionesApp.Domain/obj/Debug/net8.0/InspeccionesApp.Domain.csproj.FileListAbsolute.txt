@@ -1,0 +1,11 @@
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Domain\bin\Debug\net8.0\InspeccionesApp.Domain.deps.json
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Domain\bin\Debug\net8.0\InspeccionesApp.Domain.dll
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Domain\bin\Debug\net8.0\InspeccionesApp.Domain.pdb
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Domain\obj\Debug\net8.0\InspeccionesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Domain\obj\Debug\net8.0\InspeccionesApp.Domain.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Domain\obj\Debug\net8.0\InspeccionesApp.Domain.AssemblyInfo.cs
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Domain\obj\Debug\net8.0\InspeccionesApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Domain\obj\Debug\net8.0\InspeccionesApp.Domain.dll
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Domain\obj\Debug\net8.0\refint\InspeccionesApp.Domain.dll
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Domain\obj\Debug\net8.0\InspeccionesApp.Domain.pdb
+C:\Users\dell\Documents\InspeccionesApp\InspeccionesApp.Domain\obj\Debug\net8.0\ref\InspeccionesApp.Domain.dll
